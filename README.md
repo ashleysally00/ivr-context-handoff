@@ -215,8 +215,3 @@ Built to demonstrate conversational AI design for contact center applications, w
 - Evaluation methodology for conversation systems
 
 **Use case**: Insurance and telecom customer service workflows requiring context preservation and agent handoff optimization.
-
----
-
-**Contact**: [Your email/LinkedIn]  
-**License**: MIT
